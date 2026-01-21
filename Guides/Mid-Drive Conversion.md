@@ -1,3 +1,7 @@
+# The "Exit Strategy" Guide to Converting RadWagon3 (or some other Rad Bikes) to Mid-Drive Motor Kit (Compatible with CYC, Bafang, TongSheng Kits)
+
+*Originally posted on Reddit in r/RadPowerBikes*
+
 ![img](https://i.imgur.com/4LCCSl8.jpeg)
 
 For demonstration this guide will follow my conversion of RadPowerBikes RadWagon3 (which shares the same frame as RadWagon4 and RadWagon 2026), using a CYC Photon Gen 2 kit. I'll share a list of selected models whose frames maybe compatible with this conversion.
